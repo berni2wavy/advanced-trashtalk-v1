@@ -64,7 +64,9 @@ var sentences = {
         "clean fucked",
         "the money i gave your mum u bought cheats with",
         "boutta media some bots brb",
-        "please uninstall"
+        "please uninstall",
+        "ez",
+        "nnware.xyz"
     ],
     "Russian" : [
         "Почему так плохо?",
