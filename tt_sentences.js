@@ -33,7 +33,17 @@ var sentences = {
         "hdf",
         "hartz4 gleich weider ziehen",
         "1",
-        "eins"
+        "eins",
+        "hahaha",
+        "hahahhaaah",
+        "hahahaahahahhaha",
+        "brich jetzt nicht in wut aus",
+        "weini weini",
+        "ich hab mir in die Hose gekackt",
+        "kräftig auf den arm genommen habe ich dich",
+        "erhitz jetzt nicht dein Gemüt",
+        "krieg es nicht in den falschen Hals",
+        "was ist deine Benutzer Identifikationsnummer"
     ],
     "English" : [
         "why so bad?",
@@ -66,7 +76,21 @@ var sentences = {
         "boutta media some bots brb",
         "please uninstall",
         "ez",
-        "nnware.xyz"
+        "nnware.xyz",
+        "commit die",
+        "commit neckrope",
+        ":(",
+        "1",
+        "clapped them cheeks",
+        "mad dog",
+        "don't cry",
+        "be happy",
+        "shitted in my pants",
+        "niggas in my butthole",
+        "please refund that shit",
+        "nice config mate",
+        "i am sure it is a uid issue",
+        "config issue i am sure ;)"
     ],
     "Russian" : [
         "Почему так плохо?",
@@ -240,7 +264,10 @@ var sentences = {
         "Древние египтяне учили бабуинов прислуживать им за столом.",
         "Самка Малазийского палочника, может иметь потомство без самца.",
         "Футбольный стадион Уэмбли в Англии создан только для игр, тренировки на нем запрещены.",
-        "Самцы обезьяны лысеют точно также, как и мужчины."
+        "Самцы обезьяны лысеют точно также, как и мужчины.",
+        "Могу ли я купить твой обман, сукин сын?",
+        "Иисус любит тебя",
+        "сядь собака ... да хорошо"
     ],
     "Turkish" : [
         "merhaba",
@@ -260,6 +287,47 @@ var sentences = {
         "işlemek ölmek",
         "kendini öldür",
         "git kardeşini becer"
+    ],
+    "Polish" : [
+        "Pieprzyłam cię dziwko.",
+        "jeden ty draniu",
+        "Kradnę twój dom.",
+        "skradziona rodzina",
+        "polska legenda hvh",
+        "ty nie masz imienia",
+        "nie ma polskiego, nie ma mowy",
+        "nie możesz grać z tobą bez ręki.",
+        "nauczyć się gry, której jesteś ofiarą",
+        "wsiadać do gówna",
+        "pierdolić cipę",
+        "Ukradłem ciebie i twoją rodzinę.",
+        "ukryć swój samochód"
+    ],
+    "Japanese" : [
+        "マザーファック",
+        "いけにえの子",
+        "飼い犬",
+        "ノージャパニーズ、ノートーク",
+        "蛸壺で殴りつけてやる",
+        "へんたい＝いのち",
+        "今や広島のような爆撃を受けている",
+        "あなたの犬を食べたい",
+        "なんか変な言葉だな"
+    ],
+    "Chinese" : [
+        "发火",
+        "别难过",
+        "我想知道你的百",
+        "给你的卡泽",
+        "请把你的猫咪送来。 : 给这个亚洲人吹箫",
+        "漫天飞舞",
+        "乒乓",
+        "我没有作弊，我只是亚洲人。",
+        "中国第一",
+        "希特勒万岁",
+        "机器人阴茎",
+        "给这个亚洲人吹箫",
+        "娘炮"
     ],
     "Fun Facts" : [
         "Everyone abroad is sure that Cheburashka is SHE.",
