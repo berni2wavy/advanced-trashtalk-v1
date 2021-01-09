@@ -4,7 +4,6 @@
  * E.F#0306
  * 
  * you can add your own sentences here in this file!
- * 
 */
 
 var sentences = {
@@ -329,6 +328,20 @@ var sentences = {
         "机器人阴茎",
         "给这个亚洲人吹箫",
         "娘炮"
+    ],
+    "Romanian" : [
+        "hahahah obține zid auto",
+        "gratuit înșelător caută fundul",
+        "așa cum spunem în România, dracu-ți mama",
+        "fă-te futut înșelătorie gratis",
+        "de ce atât de rău?",
+        "nu fi trist",
+        "folosești freeqn?",
+        "fii bun, tipul meu",
+        "Ți-am furat capota motorului",
+        "du-te din nou pe străzi cerșind",
+        "1 câine",
+        "Câine românesc"
     ],
     "Fun Facts" : [
         "Everyone abroad is sure that Cheburashka is SHE.",
