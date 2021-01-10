@@ -343,6 +343,13 @@ var sentences = {
         "1 câine",
         "Câine românesc"
     ],
+    "Hungarian" : [ //Thanks to ggwellhacked aka richko#8324
+        "ülj le, egyes",
+        "Hopsz, meghaltál. Na majd legközelebb ;)",
+        "Mit csinálsz?? Lőj vissza, így nem fogsz megölni.",
+        "Fuu de szar vagy. Töröld le a játékot, ennek így nincs értelme.",
+        "Idióta balfasz. Ilyen reflexekkel sosem fogsz megölni..."
+    ],
     "Fun Facts" : [
         "Everyone abroad is sure that Cheburashka is SHE.",
         "The heart of a white whale has the size of a Volkswagen Beetle. ",
