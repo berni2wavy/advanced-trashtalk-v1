@@ -289,7 +289,7 @@ var sentences = {
         "git kardeşini becer"
     ],
     "Polish" : [
-        "Pieprzyłam cię dziwko.",
+        "Rucham cie w dupsko dziwko jebana",
         "jeden ty draniu",
         "Kradnę twój dom.",
         "skradziona rodzina",
