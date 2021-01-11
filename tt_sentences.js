@@ -92,7 +92,7 @@ var sentences = {
         "i am sure it is a uid issue",
         "config issue i am sure ;)"
     ],
-    "Russian" : [
+    "Russian" : [ //Thanks to keLs aka k3ls#2705
         "Слишком плохо!",
         "чо за чит?",
         "ебучая собака",
